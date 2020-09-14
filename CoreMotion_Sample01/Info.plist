@@ -60,5 +60,18 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIRequiredDeviceCapability</key>
+	<dict>
+		<key>accelerometer</key>
+		<true/>
+		<key>bluetooth-le</key>
+		<false/>
+		<key>gyroscope</key>
+		<true/>
+		<key>healthkit</key>
+		<false/>
+		<key>peer-peer</key>
+		<false/>
+	</dict>
 </dict>
 </plist>
